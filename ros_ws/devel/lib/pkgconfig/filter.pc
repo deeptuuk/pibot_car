@@ -1,0 +1,8 @@
+prefix=/home/pibotvm/pibot_ros/ros_ws/devel
+
+Name: filter
+Description: Description of filter
+Version: 0.0.0
+Cflags: -I/home/pibotvm/pibot_ros/ros_ws/devel/include
+Libs: -L/home/pibotvm/pibot_ros/ros_ws/devel/lib 
+Requires: 

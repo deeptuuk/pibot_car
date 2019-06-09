@@ -1,0 +1,8 @@
+prefix=/home/pibotvm/pibot_ros/ros_ws/devel
+
+Name: pibot
+Description: Description of pibot
+Version: 0.0.0
+Cflags: -I/home/pibotvm/pibot_ros/ros_ws/devel/include
+Libs: -L/home/pibotvm/pibot_ros/ros_ws/devel/lib 
+Requires: 

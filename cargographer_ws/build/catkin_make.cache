@@ -1,0 +1,2 @@
+cartographer_ros/cartographer_ros:cartographer_ros/cartographer_ros_msgs:cartographer_ros/cartographer_rviz
+-DCATKIN_DEVEL_PREFIX=/home/pibotvm/pibot_ros/google_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pibotvm/pibot_ros/google_ws/install -G Unix Makefiles

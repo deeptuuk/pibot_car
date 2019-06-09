@@ -1,0 +1,2 @@
+arbotix_ros/arbotix:arbotix_ros/arbotix_controllers:arbotix_ros/arbotix_firmware:arbotix_ros/arbotix_msgs:arbotix_ros/arbotix_python:arbotix_ros/arbotix_sensors:imu_filter:imu_filter_madgwick:pibot:pibot_bringup:pibot_description:pibot_imu:pibot_msgs:pibot_navigation:pibot_simulator:rplidar_ros:ydlidar-1.2.1
+-DCATKIN_DEVEL_PREFIX=/home/pibotvm/pibot_ros/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pibotvm/pibot_ros/ros_ws/install -G Unix Makefiles

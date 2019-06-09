@@ -1,0 +1,8 @@
+prefix=/home/pibotvm/pibot_ros/ros_ws/install
+
+Name: pibot_bringup
+Description: Description of pibot_bringup
+Version: 0.0.0
+Cflags: -I/home/pibotvm/pibot_ros/ros_ws/install/include
+Libs: -L/home/pibotvm/pibot_ros/ros_ws/install/lib 
+Requires: 

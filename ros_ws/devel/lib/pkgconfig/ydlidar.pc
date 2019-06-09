@@ -1,0 +1,8 @@
+prefix=/home/pibotvm/pibot_ros/ros_ws/devel
+
+Name: ydlidar
+Description: Description of ydlidar
+Version: 1.2.1
+Cflags: 
+Libs: -L/home/pibotvm/pibot_ros/ros_ws/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pibotvm/pibot_ros/ros_ws/install/setup.sh

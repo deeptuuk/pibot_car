@@ -1,0 +1,8 @@
+prefix=/home/pibotvm/pibot_ros/ros_ws/devel
+
+Name: pibot_simulator
+Description: Description of pibot_simulator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pibotvm/pibot_ros/ros_ws/devel/lib 
+Requires: 

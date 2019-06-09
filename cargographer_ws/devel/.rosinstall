@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pibotvm/pibot_ros/google_ws/devel/setup.sh

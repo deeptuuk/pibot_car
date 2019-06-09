@@ -1,0 +1,8 @@
+prefix=/home/pibotvm/pibot_ros/google_ws/install
+
+Name: cartographer_ros_msgs
+Description: Description of cartographer_ros_msgs
+Version: 1.0.0
+Cflags: -I/home/pibotvm/pibot_ros/google_ws/install/include
+Libs: -L/home/pibotvm/pibot_ros/google_ws/install/lib 
+Requires: geometry_msgs std_msgs message_runtime

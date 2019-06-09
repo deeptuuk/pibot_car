@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="filter" pkg="filter" type="filter">
+  <param name="twoKp" type="double" value="0.01" />
+  <param name="twoKi" type="double" value="0.002" />
+</node>
+\endverbatim
+

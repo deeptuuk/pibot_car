@@ -1,0 +1,7 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~twoKp" : \b [double] 2* accelerometer proportional gain min: 0.0, default: 0.01, max: 0.1
+- \b "~twoKi" : \b [double] 2* integral gain min: 0.0, default: 0.002, max: 0.01
+

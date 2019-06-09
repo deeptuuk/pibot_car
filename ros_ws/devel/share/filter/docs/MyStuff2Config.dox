@@ -1,0 +1,6 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~beta" : \b [double] 2* accelerometer proportional gain min: 0.0, default: 0.1088, max: 0.5
+

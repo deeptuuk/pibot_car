@@ -1,0 +1,7 @@
+\subsubsection usage Usage
+\verbatim
+<node name="filter" pkg="filter" type="filter">
+  <param name="beta" type="double" value="0.1088" />
+</node>
+\endverbatim
+
